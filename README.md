@@ -35,8 +35,8 @@
 ## 🤝 Let’s Connect
 
 📧 **Email:** [williamathomas249@gmail.com](mailto:williamathomas249@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-linkedin](https://linkedin.com/in/williamthomas1986)  
-🌐 **Portfolio:** [yourportfolio.com](https://williamthomas.com)
+💼 **LinkedIn:** [linkedin.com/in/williamthomas1986](https://linkedin.com/in/williamthomas1986)  
+🌐 **Portfolio:** [williamthomas.com](https://williamthomas.com)
 
 ---
 
