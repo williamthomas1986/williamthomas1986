@@ -39,5 +39,3 @@
 🌐 **Portfolio:** [williamthomas.com](https://williamthomas.com)
 
 ---
-
-> 🗒️ **Setup:** Create a public repo named **`williamthomas1986`**, save this as `README.md`, update links, and you’re good to go!
